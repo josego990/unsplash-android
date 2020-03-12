@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF3F80</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="transparent">#00FFFFFF</color>
+
+    <color name="color_login_button">#D81</color>
+    <color name="color_login_buttonpress">#D81</color>
+    <color name="yellow">#ECD909</color>
+    <color name="black">#000</color>
+    <color name="color_edittext_hint_two">#aac</color>
+    <color name="color_signup_button">#F2F2F2</color>
+    <color name="color_signup_buttonpress">#EBEBEB</color>
+    <color name="color_green_mexico">#008709</color>
+    <color name="color_red_mexico">#D4002F</color>
+</resources>
